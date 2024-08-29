@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**luigi116/luigi116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi ther
 
 Here are some ideas to get you started:
 
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Estou no 1 ano do ensino medio
 - 📫 E minha comida favorita é strogonoff ...
 
--->
+
